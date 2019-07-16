@@ -1,2 +1,3 @@
 # hello-world
 Learning GitHub
+This this my extra credit for my first computer science class!Heres to my future degree...
